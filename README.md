@@ -1,7 +1,7 @@
 # Millennium-Palace
 
 Informações da equipe Millennium Palace:
-  Nomes:  Letícia Borchardt
+  \nNomes:  Letícia Borchardt
           Roque Rafael Camargo
           Gabriel Henrique Amazonas
           Maycon Oliveira
