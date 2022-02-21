@@ -14,6 +14,7 @@ Tecnologias que seriam utilizadas:
   
           Frameworks React Native e Expo. 
           Utilização do Firebase (desenvolvida pelo Google).
+          JavaScript, CSS, HTML.
           Arquitetura MVC.
 
 Forma de divisão de tarefas no projeto:
